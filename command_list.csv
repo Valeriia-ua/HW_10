@@ -1,0 +1,327 @@
+git -version
+git --version
+$ help
+hepl
+help
+man help
+man
+ls
+man
+man
+$ man
+man
+cd
+cd Postman
+man ls
+help cd
+ls --help
+help cd
+man cd
+cd~/Desktop
+cd~/HW_10
+cd ~/Desktop
+cd HW_10
+history -c && rm ~/.bash_history
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd HW_10/
+git status
+git add text_ignore.txt
+git add text_ignore.txt
+git add text_ignore.txt
+git add text_ignore.txt(touch)
+touch text_ignore.txt
+nano .gitignore
+git status
+git add.
+git status
+git commit -m "The text_ignore.txt file has been added to the .gitignore file"
+vim .gitignore
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd ~/Desktop
+cd HW_10
+git --global user.name "Valeriia Olekenko"
+cd ~/Desktop
+cd HW_10
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+ignore
+clean
+delete
+cd~ /Desktop
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+touch text_ignore.txt
+echo "text_ignore.txt">> .gitignore
+git status
+git add .
+git commit -m  "The text_ignore.txt file has been added to the .gitignore file"
+git add main_test.txt
+git add main_test.txt
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+ git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd HW_10
+touch text_ignore.txt
+echo "text_ignore.txt" >> .gitignore
+git status
+git add .
+git commit -m "The text_ignore.txt file has been added to the .gitignore file"
+git add main_test.txt
+git add .
+git commit -m "Create a new file named main_test.txt\ngit commit -m "Create a new file named main_test.txt"\ngit commit -m "Create a new file named main_test.txt"\n\ngit commit -m "Create a new file"\ncd  HW_10\n"
+git add main_test.txt
+git add .
+git commit -m "Create a new file main_test.txt"
+git checkout -b develop
+git branch
+git add develop_test.txt
+git add .
+git commit -m "Create a new file named develop_test.txt"
+echo "Hello, world >> develop_test.txt\n"
+git add .
+git status
+git branch
+git add develop_test.txt
+git status
+git branch
+cd HW_10
+git checkout -b develop
+git branch
+git add develop_test.txt
+git add .
+git commit -m "Create a new file develop_test.txt"
+git branch
+touch develop_test.txt
+git add .
+git commit -m "Create a new file named develop_test.txt"
+echo "Hello, world >> develop_test.txt\n"
+git status
+cd HW_10
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name 
+it config --get user.email
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd HW_10
+touch text_ignore.txt
+echo "text_ignore.txt" >> .gitignore
+git status
+git add .
+git commit -m "The text_ignore.txt file has been added to the .gitignore file"
+git status
+touch main_test.txt
+git status
+git add .
+git commit -m "Create a new file main_test.txt"
+git status
+git checkout -b develop
+git branch
+touch develop_test.txt
+git status
+git add .
+git commit -m "Create a new file named develop_test.txt"
+echo "Hello, world >> develop_test.txt\n"
+get status
+git status
+git branch
+git status
+nano develop_test.txt
+git status
+git add .
+git commit -m "Changes made to develop_test.txt"
+git checkout main
+git merge develop
+git log
+0 > command_list.csv
+history -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+git push origin
+history -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+history -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+git push origin
+history -n > command_list.tx
+git add .
+git commit -m "Commit all changes"
+cd ~/Desktop
+cd HW_10
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+it config --global user.email loleksenko050401@gmail.com
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd HW_10
+touch text_ignore.txt
+echo "text_ignore.txt" >> .gitignore
+git status
+git add .
+git commit -m "The text_ignore.txt file has been added to the .gitignore file"
+touch main_test.txt
+git status
+git add .
+git commit -m "Create a new file main_test.txt"
+git checkout -b develop
+git branch
+touch develop_test.txt
+git status
+git add .
+git commit -m "Create a new file named develop_test.txt"
+nano develop_test.txt
+git status
+git add .
+git commit -m "Changes made to develop_test.txt"
+git checkout main
+git merge develop
+git log
+history -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+git push origin
+history -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+git push origin main
+ history  -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+git push origin main
+history  -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+git push origin main
+[200~history  -n > command_list.txt~
+history  -n > command_list.txt
+git add .
+git commit -m "Commit all changes"
+git push origin main
+history -n > command_list.csv
+git add .
+git commit -m "Commit all changes"
+git push origin main
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name
+git config --get user.email 
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd HW_10
+touch text_ignore.txt
+echo "text_ignore.txt" >> .gitignore
+git status
+git add .
+git commit -m "The text_ignore.txt file has been added to the .gitignore file"
+touch main_test.txt
+git status
+git add .
+git commit -m "Create a new file main_test.txt"
+git checkout -b develop
+git branch
+touch develop_test.txt
+git status
+git add .
+git commit -m "Create a new file named develop_test.txt"
+nano develop_test.txt
+git status
+git add .
+git commit -m "Changes made to develop_test.txt"
+git checkout main
+git merge develop
+git log
+history -n > command_list.csv
+git add .
+git commit -m "Commit all changes"
+git push origin main
+echo $SHELL
+echo $HISTSIZE
+.bashrc
+.bash_profile
+history -n > command_list.csv
+git add .
+git commit -m "Commit all changes"
+git push origin main
+echo $HISTSIZE
+export HISTSIZE=1000
+history -n > command_list.csv
+git add .
+git commit -m "Commit all changes"
+git push origin main
+history -n 0 > command_list.csv
+git add .
+git commit -m "Commit all changes"
+git push origin main
+git status
+touch text_ignore.txt
+nano .gitignore
+get status
+cd ~/Desktop
+cd HW_10
+git config --global user.name "Valeriia Oleksenko"
+git config --global user.email loleksenko050401@gmail.com
+git config --get user.name 
+git config --get user.email
+git clone https://github.com/Valeriia-ua/HW_10.git
+cd HW_10
+touch text_ignore.txt
+echo text_ignore.txt > .gitignore
+git status
+git add .
+git commit -m "The text_ignore.txt file has been added to the .gitignore file"
+touch main_test.txt
+git status
+git add .
+git commit -m "Create a new file main_test.txt"
+git checkout -b develop
+git branch
+touch develop_test.txt
+git status
+git add .
+git commit -m "Create a new file named develop_test.txt"
+nano develop_test.txt
+git status
+git add .
+git commit -m "Changes made to develop_test.txt"
+git checkout main
+git merge develop
+git log
